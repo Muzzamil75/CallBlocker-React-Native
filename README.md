@@ -1,9 +1,9 @@
 ## `CallBlocker`
 
-## Get Contacts permission of android
+#### Get Contacts permission of android
 
-## Listing of contacts [async-await]
+#### Listing of contacts [async-await]
 
-## Call Tracking npm [working]
+#### Call Tracking npm [working]
 
-## Call blocking [through native coding]
+#### Call blocking [through native coding]
