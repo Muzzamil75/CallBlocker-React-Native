@@ -1,4 +1,4 @@
-## `CallBlocker`
+## `CallBlocker` Implemented the following already
 
 #### Get Contacts permission of android
 
